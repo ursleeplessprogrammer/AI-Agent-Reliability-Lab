@@ -1,5 +1,10 @@
 # 🧪 AI Agent Reliability Lab
 
+<p align="center">
+      <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
 > **A repeatable test bench for checking an agent’s tool use, responses, safety rules, and approval behavior.**
 
 ## 📌 Project Overview
